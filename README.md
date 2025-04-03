@@ -3,7 +3,7 @@
 
 🌿•₊✧💻⋆⭒˚☕️｡⋆ CS Student @ FIU <br/>
 
-⋆｡°✎I’m currently working on a Video game made using Unity "Sewer Wars" !<br/>
+⋆｡°✎I’m currently working on a portfolio! !<br/>
 
 ✧ Learning Java 🌱 & exploring AWS Cloud ☁️<br/>
 
