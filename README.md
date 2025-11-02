@@ -1,7 +1,7 @@
 ### Full-stack developer crafting web apps & game experiences | CS Instructor | INIT Build E-Board
 
 🎓 CS Student @ Florida International University  
-💻 Teaching 70+ K-12 students @ Code/Art, Inc.  
+💻 Teaching 70+ K-12 students @ Code/Art.Inc   
 🚀 Currently a monkey  helping coordinate 15+ project teams @ INIT Build.
 
 ![monkey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hnY3Foa3c2eTF3NzJ3MjM4YzEzMjVmcDk5NGVxeHNpM3k0bDVybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kr9xzflPM8HKAxXwaY/giphy.gif)
