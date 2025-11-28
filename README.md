@@ -7,9 +7,9 @@
 ![monkey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hnY3Foa3c2eTF3NzJ3MjM4YzEzMjVmcDk5NGVxeHNpM3k0bDVybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kr9xzflPM8HKAxXwaY/giphy.gif)
 
 #### Currently Working on
-
- - Pluto - AI memory assistant for Alzheimer's patients
- - Concord - Privacy-first messaging platform
+ -Start up - (TBA) uwu
+ - Portfolio - Showcasing all my work to date!
+ - Spotify Visualizer - based on BreakThroughTech's Data Science/AI workshop
  - MyMusicPage - A myspace messaging platform developing within a 9-week sprint
 
 
