@@ -4,6 +4,8 @@ Currently a CS student @ Florida International University and Build Program Mana
 
 My interests lie within supporting student initiatives as well as becoming a more proficient SWE for the sake of building something with real impact!
 
+### Main Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Currently Working On
