@@ -1,4 +1,4 @@
-Hey my name is Paola!
+# Hey my name is Paola!
 
 Currently a CS student @ Florida International University and Build Program Manager @ INIT FIU that empowers minorities to land internships & FT roles within tech. Build gives them visibility by doing student-led projects with real-world applications backed by companies like Blackstone, MSI & Base44 in 9 weeks.
 
