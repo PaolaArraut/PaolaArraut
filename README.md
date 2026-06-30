@@ -1,10 +1,8 @@
-### Full-stack developer | CS Instructor | INIT Build E-Board
+Hey my name is Paola!
 
-🎓 CS Student @ Florida International University  
-💻 Teaching 70+ K-12 students @ Code/Art.Inc  
-🚀 Currently helping coordinate 15+ project teams @ INIT Build.
+Currently a CS student @ Florida International University and Build Program Manager @ INIT FIU that empowers minorities to land internships & FT roles within tech. Build gives them visibility by doing student-led projects with real-world applications backed by companies like Blackstone, MSI & Base44 in 9 weeks.
 
-![monkey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hnY3Foa3c2eTF3NzJ3MjM4YzEzMjVmcDk5NGVxeHNpM3k0bDVybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kr9xzflPM8HKAxXwaY/giphy.gif)
+My interests lie within supporting student initiatives as well as becoming a more proficient SWE for the sake of building something with real impact!
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
