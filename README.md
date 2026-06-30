@@ -28,6 +28,4 @@ I'm currently open to new opportunities in software engineering. If you have an 
 
 📫Interested in reaching me? Click here below!
 
-| ⚡️| 💬| 🧠|
-|:---:|:---:|:---:|
 || [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolaarraut/) | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/297981301993242626) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paoarraut05@gmail.com) |
